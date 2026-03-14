@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="hydrate"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Gas Stations</name>
+    <desc>Gas stations found within 10000m of the route using OpenStreetMap data</desc>
+    <time>2026-03-14T22:03:25.849Z</time>
+  </metadata>
+  <wpt lat="43.4931282" lon="-1.2939053">
+    <name>Carrefour Market</name>
+    <desc>Brand: Carrefour. Hours: 24/7. Fuel: Diesel, Octane 95, Octane 98. At ~1.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.5942995" lon="-1.146037">
+    <name>Gas Station</name>
+    <desc>At ~11.6km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.5294673" lon="-1.1515662">
+    <name>Avia</name>
+    <desc>Hours: 24/7. Fuel: Diesel, Octane 98, LPG, E10. At ~13.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.5504454" lon="-1.1231151">
+    <name>Carrefour Market</name>
+    <desc>Brand: Carrefour Market. Operator: Carrefour. Hours: 24/7. Fuel: Diesel, Octane 95, Octane 98. Wheelchair accessible. At ~13.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.4823997" lon="-1.1434782">
+    <name>Elan</name>
+    <desc>Brand: Elan. Hours: 24/7. Fuel: Diesel, Octane 95. At ~19.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.4840589" lon="-1.1375154">
+    <name>Intermarché</name>
+    <desc>Brand: Intermarché. Hours: 24/7. Fuel: Diesel, Octane 95, E10. At ~20.4km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.5467816" lon="-1.1128783">
+    <name>TotalEnergies</name>
+    <desc>Brand: TotalEnergies. Operator: Mme Martinez Danielle. Hours: 24/7. Fuel: Diesel, Octane 98, E10. At ~22.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.4748072" lon="-0.916692">
+    <name>Carrefour</name>
+    <desc>Brand: Carrefour. Hours: Mo-Su 00:00-23:59. Fuel: Diesel, Octane 95, Octane 98. Self-service. At ~40.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.4004942" lon="-0.9484955">
+    <name>E. Leclerc</name>
+    <desc>Brand: E.Leclerc. Hours: 24/7. Fuel: Diesel, Octane 95, E10. At ~46.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.332498" lon="-1.0161306">
+    <name>Gas Station</name>
+    <desc>Operator: Groupement des Mousquetaires. Hours: 24/7. Fuel: Diesel, Octane 95, E85, E10. At ~57.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.2820401" lon="-1.1805847">
+    <name>Gas Station</name>
+    <desc>At ~80.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.16681" lon="-1.211932">
+    <name>Total</name>
+    <desc>Brand: Total. Fuel: Diesel, Octane 98, E10. At ~93.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.1684806" lon="-1.2279528">
+    <name>Intermarché</name>
+    <desc>Brand: Intermarché. Hours: 24/7. Fuel: Diesel, Octane 95, Octane 98, E10. At ~95.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.2343968" lon="-1.2965283">
+    <name>E. Leclerc</name>
+    <desc>Brand: E. Leclerc. Hours: 24/7. Fuel: Diesel, Octane 95, Octane 98. At ~95.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.182761" lon="-1.3356719">
+    <name>Intermarché</name>
+    <desc>Brand: Intermarché. Hours: 24/7. Fuel: Diesel, Octane 95, Octane 98. At ~96.4km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.1725378" lon="-1.3508473">
+    <name>Total</name>
+    <desc>Brand: Total. Fuel: Diesel, Octane 95. At ~96.4km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.11725" lon="-1.2705">
+    <name>Luzaide</name>
+    <desc>Hours: Mo-Su 09:00-20:00. Fuel: Diesel, Octane 95, Octane 98. At ~98.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.1167662" lon="-1.2717469">
+    <name>Luzaide gazolindegia</name>
+    <desc>At ~98.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.1172472" lon="-1.2705622">
+    <name>Peio gasolindegia</name>
+    <desc>At ~98.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="43.1089538" lon="-1.2829449">
+    <name>Repsol</name>
+    <desc>Brand: Repsol. Operator: Repsol. Hours: Mo-Sa 07:00-21:00; Su 08:30-20:00. Fuel: Diesel. At ~101.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.775333" lon="-1.455647">
+    <name>COOP URROZ-VILLA</name>
+    <desc>Hours: Mo-Fr 08:00-18:00. At ~182.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.824167" lon="-1.563056">
+    <name>IGOA Y PATXI SA</name>
+    <desc>Hours: 24/7. Fuel: Diesel. At ~196.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8314312" lon="-1.5855776">
+    <name>BP</name>
+    <desc>Brand: BP. At ~200.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.828806" lon="-1.602694">
+    <name>Vicarli</name>
+    <desc>Hours: 24/7. Fuel: Diesel. At ~203.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8041927" lon="-1.6279175">
+    <name>Aralar</name>
+    <desc>At ~207.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.7347807" lon="-1.6338541">
+    <name>IDS</name>
+    <desc>Brand: IDS. Hours: 24/7. Fuel: Diesel. At ~208.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.7851348" lon="-1.6347122">
+    <name>E.Leclerc</name>
+    <desc>Brand: E.Leclerc. Operator: E.Leclerc. Hours: 24/7. Fuel: Diesel, Octane 95, Octane 98. At ~208.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.7345348" lon="-1.6335515">
+    <name>Moeve</name>
+    <desc>Brand: Moeve. Operator: Avia. Hours: 24/7. Fuel: Diesel. At ~208.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.762889" lon="-1.633722">
+    <name>Moeve</name>
+    <desc>Brand: Moeve. Hours: Mo-Su 06:00-22:30. Fuel: Diesel, Octane 95, Octane 98. At ~208.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.731917" lon="-1.616902">
+    <name>Moeve</name>
+    <desc>Brand: Moeve. Hours: Mo-Su 07:00-23:00. Fuel: Diesel, Octane 95, Octane 98. At ~208.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.7317875" lon="-1.6183741">
+    <name>Moeve</name>
+    <desc>Brand: Moeve. Hours: 24/7. At ~208.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.737417" lon="-1.630694">
+    <name>ABYCER</name>
+    <desc>Hours: Mo-Fr 08:30-13:30,15:30-18:30. Fuel: Diesel. At ~208.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8333469" lon="-1.6646573">
+    <name>Galp</name>
+    <desc>Brand: Galp. Operator: Galp. At ~208.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8204661" lon="-1.6558408">
+    <name>Estación de Servicio Moeve Trinitarios</name>
+    <desc>Brand: Moeve. Hours: 24/7. Fuel: Diesel, Octane 95, Octane 98. At ~208.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8536521" lon="-1.6922411">
+    <name>AGRUNATRA</name>
+    <desc>Hours: 24/7. Fuel: Diesel. Access: private. At ~208.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8068329" lon="-1.6616166">
+    <name>Gasolinera Pío XII</name>
+    <desc>Brand: Moeve. Wheelchair accessible. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.764778" lon="-1.661722">
+    <name>Transportes Oteiza</name>
+    <desc>Hours: Mo-Fr 09:00-13:00,15:00-19:00. Fuel: Diesel. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8616744" lon="-1.7439388">
+    <name>Repsol</name>
+    <desc>Brand: Repsol. Operator: Repsol. Hours: 24/7. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8143379" lon="-1.6843973">
+    <name>Petronor</name>
+    <desc>Brand: Petronor. Operator: Petronor. Hours: Mo-Su 06:00-23:00. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.829722" lon="-1.68623">
+    <name>EUROCAM</name>
+    <desc>Hours: 24/7. Fuel: Diesel, Octane 95, LPG. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.7682308" lon="-1.6595747">
+    <name>AN Energéticos - Barbatain</name>
+    <desc>Brand: AN Energéticos. Hours: 24/7. Fuel: Diesel, Octane 95. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.835722" lon="-1.689">
+    <name>PETROSERVICE</name>
+    <desc>Hours: 24/7. Fuel: Diesel. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.761083" lon="-1.661194">
+    <name>Gasóleos MERCADAIZ</name>
+    <desc>Hours: Mo-Fr 08:00-00:00; Sa 08:00-22:00. Fuel: Diesel. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.7775568" lon="-1.7076265">
+    <name>Moeve</name>
+    <desc>Brand: Moeve. Hours: Mo-Su 06:30-22:30. Fuel: Diesel, Octane 95, Octane 98. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.7779757" lon="-1.7081522">
+    <name>Moeve</name>
+    <desc>Brand: Moeve. Hours: Mo-Su 06:30-22:30. Fuel: Diesel, Octane 95, Octane 98. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="42.8150305" lon="-1.6847885">
+    <name>Petroprix</name>
+    <desc>Brand: Petroprix. At ~208.9km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+</gpx>

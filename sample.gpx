@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="hydrate-test"
+  xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Rome Walk - Colosseum to Vatican</name>
+  </metadata>
+  <trk>
+    <name>Rome Walk</name>
+    <trkseg>
+      <!-- Colosseum -->
+      <trkpt lat="41.8902" lon="12.4922"><ele>25</ele></trkpt>
+      <trkpt lat="41.8935" lon="12.4880"><ele>30</ele></trkpt>
+      <!-- Piazza Venezia -->
+      <trkpt lat="41.8956" lon="12.4823"><ele>35</ele></trkpt>
+      <trkpt lat="41.8980" lon="12.4770"><ele>28</ele></trkpt>
+      <!-- Largo Argentina -->
+      <trkpt lat="41.8953" lon="12.4764"><ele>20</ele></trkpt>
+      <trkpt lat="41.8945" lon="12.4720"><ele>18</ele></trkpt>
+      <!-- Campo de' Fiori -->
+      <trkpt lat="41.8956" lon="12.4720"><ele>22</ele></trkpt>
+      <trkpt lat="41.8980" lon="12.4680"><ele>20</ele></trkpt>
+      <!-- Ponte Sisto area -->
+      <trkpt lat="41.8930" lon="12.4680"><ele>15</ele></trkpt>
+      <!-- Trastevere -->
+      <trkpt lat="41.8895" lon="12.4690"><ele>18</ele></trkpt>
+      <trkpt lat="41.8870" lon="12.4660"><ele>20</ele></trkpt>
+      <!-- Along the Tiber -->
+      <trkpt lat="41.8920" lon="12.4610"><ele>15</ele></trkpt>
+      <trkpt lat="41.8960" lon="12.4580"><ele>18</ele></trkpt>
+      <!-- Castel Sant'Angelo -->
+      <trkpt lat="41.9009" lon="12.4661"><ele>20</ele></trkpt>
+      <!-- Via della Conciliazione -->
+      <trkpt lat="41.9020" lon="12.4600"><ele>22</ele></trkpt>
+      <trkpt lat="41.9020" lon="12.4560"><ele>25</ele></trkpt>
+      <!-- St. Peter's Square -->
+      <trkpt lat="41.9022" lon="12.4539"><ele>28</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,18 @@
+{
+  "name": "hydrate",
+  "version": "1.0.0",
+  "description": "Find drinkable water sources along a GPX route using OpenStreetMap data",
+  "type": "module",
+  "scripts": {
+    "start": "node hydrate.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@tmcw/togeojson": "^7.1.2",
+    "@xmldom/xmldom": "^0.8.11"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^5.9.3"
+  }
+}

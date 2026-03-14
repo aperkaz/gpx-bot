@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="hydrate"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Drinkable Water Sources</name>
+    <desc>Water sources found within 1000m of the route using OpenStreetMap data</desc>
+    <time>2026-03-14T21:56:38.572Z</time>
+  </metadata>
+  <wpt lat="43.4817686" lon="-1.143084">
+    <name>Drinking Water</name>
+    <desc>At ~19.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.4813784" lon="-1.1432577">
+    <name>Drinking Water</name>
+    <desc>At ~19.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.4813718" lon="-1.1433263">
+    <name>Drinking Water</name>
+    <desc>At ~19.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.4842879" lon="-1.140641">
+    <name>Drinking Water</name>
+    <desc>At ~20.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.3305479" lon="-1.0311688">
+    <name>Water Point</name>
+    <desc>At ~58.5km along route.</desc>
+    <type>Water Point</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.3292099" lon="-1.0324646">
+    <name>Water Point</name>
+    <desc>Operator: Ville de Saint-Palais. At ~58.7km along route.</desc>
+    <type>Water Point</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.3271965" lon="-1.0323461">
+    <name>Drinking Water</name>
+    <desc>At ~58.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.2840461" lon="-1.0432384">
+    <name>Drinking Water</name>
+    <desc>At ~66.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.2723739" lon="-1.0482119">
+    <name>Point d&apos;eau potable</name>
+    <desc>At ~67.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.2637574" lon="-1.0572975">
+    <name>Drinking Water</name>
+    <desc>At ~69.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.2558331" lon="-1.0714806">
+    <name>Drinking Water</name>
+    <desc>Bottle refill available. At ~70.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.2198578" lon="-1.1210248">
+    <name>Drinking Water</name>
+    <desc>At ~78.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1631905" lon="-1.1746835">
+    <name>Drinking Water</name>
+    <desc>At ~89.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1632087" lon="-1.1747027">
+    <name>Drinking Water</name>
+    <desc>At ~89.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1649769" lon="-1.1942187">
+    <name>Drinking Water</name>
+    <desc>At ~91.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1610804" lon="-1.2323482">
+    <name>Drinking Water</name>
+    <desc>At ~95.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1653838" lon="-1.2317314">
+    <name>Drinking Water</name>
+    <desc>At ~95.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1636509" lon="-1.2346187">
+    <name>Drinking Water</name>
+    <desc>Hours: 24/7. Bottle refill available. At ~95.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1654923" lon="-1.2347557">
+    <name>Water Point</name>
+    <desc>At ~95.6km along route.</desc>
+    <type>Water Point</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1717196" lon="-1.2359971">
+    <name>Water Point</name>
+    <desc>At ~95.7km along route.</desc>
+    <type>Water Point</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1625261" lon="-1.2370943">
+    <name>Drinking Water</name>
+    <desc>Hours: 24/7. Bottle refill available. At ~95.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1645515" lon="-1.2440212">
+    <name>Drinking Water</name>
+    <desc>Bottle refill available. Wheelchair accessible. At ~95.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1618338" lon="-1.238972">
+    <name>Drinking Water</name>
+    <desc>Hours: 24/7. At ~95.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1617694" lon="-1.2391232">
+    <name>Drinking Water</name>
+    <desc>At ~96.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1603249" lon="-1.2382759">
+    <name>Drinking Water</name>
+    <desc>At ~96.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1591115" lon="-1.238943">
+    <name>Drinking Water</name>
+    <desc>Bottle refill available. At ~96.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.1043941" lon="-1.1957439">
+    <name>Drinking Water</name>
+    <desc>Wheelchair accessible. At ~104.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.0323313" lon="-1.2271046">
+    <name>Azpegiko iturria</name>
+    <desc>At ~120.2km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.0093261" lon="-1.227204">
+    <name>Drinking Water</name>
+    <desc>At ~123.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.0125463" lon="-1.3195722">
+    <name>Apez Iturria</name>
+    <desc>Operator: Apezaren iturria. At ~132.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.0084594" lon="-1.3214401">
+    <name>Andre Mariaren iturria</name>
+    <desc>At ~132.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.0080064" lon="-1.3193049">
+    <name>Drinking Water</name>
+    <desc>At ~132.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="43.0056153" lon="-1.3233193">
+    <name>Errolanen iturria</name>
+    <desc>At ~133.2km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9929804" lon="-1.3301017">
+    <name>Drinking Water</name>
+    <desc>At ~134.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9929134" lon="-1.3301272">
+    <name>Drinking Water</name>
+    <desc>At ~134.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9890081" lon="-1.3359365">
+    <name>Drinking Water</name>
+    <desc>At ~135.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9794241" lon="-1.3334796">
+    <name>Jauregiaroztegiko iturria</name>
+    <desc>At ~136.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9720508" lon="-1.3507846">
+    <name>Drinking Water</name>
+    <desc>At ~138.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9732048" lon="-1.3510689">
+    <name>Drinking Water</name>
+    <desc>At ~138.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9729594" lon="-1.3521218">
+    <name>Drinking Water</name>
+    <desc>At ~138.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9722261" lon="-1.351629">
+    <name>Drinking Water</name>
+    <desc>At ~138.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9718821" lon="-1.3518468">
+    <name>Drinking Water</name>
+    <desc>At ~138.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.9713947" lon="-1.3546714">
+    <name>Drinking Water</name>
+    <desc>At ~139.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8515389" lon="-1.3759022">
+    <name>Drinking Water</name>
+    <desc>At ~159.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8529087" lon="-1.3758569">
+    <name>Drinking Water</name>
+    <desc>Wheelchair accessible. At ~159.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.7872279" lon="-1.3649656">
+    <name>Drinking Water</name>
+    <desc>At ~173.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.7867358" lon="-1.3673849">
+    <name>Drinking Water</name>
+    <desc>At ~173.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.7848193" lon="-1.3703394">
+    <name>Drinking Water</name>
+    <desc>At ~173.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.7802824" lon="-1.3753822">
+    <name>Drinking Water</name>
+    <desc>At ~174.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.7784478" lon="-1.3747072">
+    <name>Drinking Water</name>
+    <desc>Wheelchair accessible. At ~174.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.7778874" lon="-1.4597567">
+    <name>Drinking Water</name>
+    <desc>At ~183.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.7778938" lon="-1.4597723">
+    <name>Drinking Water</name>
+    <desc>At ~183.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8144978" lon="-1.5204337">
+    <name>Drinking Water</name>
+    <desc>At ~190.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.805812" lon="-1.5225865">
+    <name>Drinking Water</name>
+    <desc>At ~191.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8353194" lon="-1.5611036">
+    <name>Drinking Water</name>
+    <desc>Fuente de Elcano. At ~197.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8396691" lon="-1.5824836">
+    <name>Drinking Water</name>
+    <desc>At ~199.2km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8391781" lon="-1.5854792">
+    <name>Drinking Water</name>
+    <desc>At ~199.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8325171" lon="-1.5873623">
+    <name>Drinking Water</name>
+    <desc>At ~199.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8305753" lon="-1.5901501">
+    <name>Drinking Water</name>
+    <desc>At ~199.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8248915" lon="-1.5897285">
+    <name>Drinking Water</name>
+    <desc>At ~200.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8288746" lon="-1.5895825">
+    <name>Drinking Water</name>
+    <desc>At ~201.2km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8296619" lon="-1.5960917">
+    <name>Drinking Water</name>
+    <desc>At ~202.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8296713" lon="-1.5965715">
+    <name>Drinking Water</name>
+    <desc>At ~202.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8357491" lon="-1.604559">
+    <name>Drinking Water</name>
+    <desc>At ~202.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8327888" lon="-1.6068235">
+    <name>Drinking Water</name>
+    <desc>At ~203.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8337902" lon="-1.6101786">
+    <name>Drinking Water</name>
+    <desc>At ~203.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8317773" lon="-1.6051306">
+    <name>Drinking Water</name>
+    <desc>At ~203.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8330918" lon="-1.6085189">
+    <name>Drinking Water</name>
+    <desc>At ~203.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8303288" lon="-1.6051781">
+    <name>Drinking Water</name>
+    <desc>At ~203.2km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8328348" lon="-1.6124808">
+    <name>Drinking Water</name>
+    <desc>At ~203.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8304729" lon="-1.6092733">
+    <name>Drinking Water</name>
+    <desc>At ~203.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8288239" lon="-1.6048872">
+    <name>Drinking Water</name>
+    <desc>At ~203.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8285916" lon="-1.6073516">
+    <name>Drinking Water</name>
+    <desc>At ~203.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8279068" lon="-1.6075296">
+    <name>Drinking Water</name>
+    <desc>At ~203.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8247042" lon="-1.6125477">
+    <name>Drinking Water</name>
+    <desc>Wheelchair accessible. At ~204.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8230915" lon="-1.6144222">
+    <name>Drinking Water</name>
+    <desc>Wheelchair accessible. At ~204.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8162408" lon="-1.6077285">
+    <name>Drinking Water</name>
+    <desc>At ~204.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8157817" lon="-1.6069973">
+    <name>Drinking Water</name>
+    <desc>At ~204.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8168429" lon="-1.6095738">
+    <name>Drinking Water</name>
+    <desc>At ~204.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8172216" lon="-1.6115104">
+    <name>Drinking Water</name>
+    <desc>At ~204.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8118717" lon="-1.6099522">
+    <name>Drinking Water</name>
+    <desc>At ~204.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8135498" lon="-1.6119163">
+    <name>Drinking Water</name>
+    <desc>At ~204.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8175199" lon="-1.6139628">
+    <name>Drinking Water</name>
+    <desc>At ~204.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8137129" lon="-1.6150731">
+    <name>Drinking Water</name>
+    <desc>At ~204.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8130524" lon="-1.6148993">
+    <name>Drinking Water</name>
+    <desc>At ~204.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8126062" lon="-1.6217876">
+    <name>Drinking Water</name>
+    <desc>At ~204.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8140001" lon="-1.6197422">
+    <name>Drinking Water</name>
+    <desc>At ~204.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8227653" lon="-1.6171499">
+    <name>Drinking Water</name>
+    <desc>Wheelchair accessible. At ~205.2km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.822775" lon="-1.6186541">
+    <name>Drinking Water</name>
+    <desc>At ~205.2km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8296257" lon="-1.6246189">
+    <name>Drinking Water</name>
+    <desc>At ~205.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8302968" lon="-1.6238131">
+    <name>Drinking Water</name>
+    <desc>At ~205.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8225438" lon="-1.6250188">
+    <name>Drinking Water</name>
+    <desc>At ~205.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8303293" lon="-1.6259988">
+    <name>Drinking Water</name>
+    <desc>At ~205.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8209379" lon="-1.6365212">
+    <name>Drinking Water</name>
+    <desc>At ~206.6km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8290759" lon="-1.6376656">
+    <name>Drinking Water</name>
+    <desc>At ~206.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8212947" lon="-1.637447">
+    <name>Drinking Water</name>
+    <desc>At ~206.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8268259" lon="-1.6374721">
+    <name>Drinking Water</name>
+    <desc>At ~206.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8245439" lon="-1.6377823">
+    <name>Drinking Water</name>
+    <desc>At ~206.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8264882" lon="-1.6407555">
+    <name>Drinking Water</name>
+    <desc>At ~206.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8265918" lon="-1.6448256">
+    <name>Drinking Water</name>
+    <desc>At ~206.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.822149" lon="-1.6399176">
+    <name>Drinking Water</name>
+    <desc>At ~206.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8231584" lon="-1.6446079">
+    <name>Drinking Water</name>
+    <desc>At ~206.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8243455" lon="-1.6447484">
+    <name>Drinking Water</name>
+    <desc>At ~206.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8240363" lon="-1.6432705">
+    <name>Drinking Water</name>
+    <desc>At ~206.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8235892" lon="-1.6465182">
+    <name>Drinking Water</name>
+    <desc>At ~207.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8223268" lon="-1.6452281">
+    <name>Drinking Water</name>
+    <desc>At ~207.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8223234" lon="-1.6448677">
+    <name>Drinking Water</name>
+    <desc>At ~207.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.820837" lon="-1.6387803">
+    <name>Drinking Water</name>
+    <desc>At ~207.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.820887" lon="-1.6408967">
+    <name>Drinking Water</name>
+    <desc>At ~207.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8210757" lon="-1.6463911">
+    <name>Drinking Water</name>
+    <desc>At ~207.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8193231" lon="-1.6429101">
+    <name>Fuente de Navarrería</name>
+    <desc>At ~207.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8200692" lon="-1.6436704">
+    <name>Fuente Dos de Mayo</name>
+    <desc>At ~207.1km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8184852" lon="-1.6412358">
+    <name>Drinking Water</name>
+    <desc>At ~207.2km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8183455" lon="-1.6355802">
+    <name>Drinking Water</name>
+    <desc>At ~207.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8169259" lon="-1.6363017">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8176158" lon="-1.6353982">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8142304" lon="-1.6313407">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8144991" lon="-1.6296665">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8161543" lon="-1.6375239">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8113856" lon="-1.6327487">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8157035" lon="-1.6354187">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8150503" lon="-1.6336366">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8152624" lon="-1.6346084">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8142652" lon="-1.6341948">
+    <name>Drinking Water</name>
+    <desc>At ~207.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.808811" lon="-1.6344009">
+    <name>Drinking Water</name>
+    <desc>Operator: MCP. Bottle refill available. Wheelchair accessible. At ~207.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8097198" lon="-1.6351006">
+    <name>Drinking Water</name>
+    <desc>Operator: MCP. Bottle refill available. Wheelchair accessible. At ~207.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8138328" lon="-1.6360378">
+    <name>Drinking Water</name>
+    <desc>At ~207.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8148557" lon="-1.6409766">
+    <name>Drinking Water</name>
+    <desc>Operator: MCP. Bottle refill available. Wheelchair accessible. At ~207.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8117195" lon="-1.6408631">
+    <name>Drinking Water</name>
+    <desc>Operator: MCP. Bottle refill available. Wheelchair accessible. At ~207.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8122103" lon="-1.638057">
+    <name>Drinking Water</name>
+    <desc>Operator: MCP. Bottle refill available. Wheelchair accessible. At ~207.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8104336" lon="-1.636145">
+    <name>Drinking Water</name>
+    <desc>Operator: MCP. Bottle refill available. Wheelchair accessible. At ~207.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8140068" lon="-1.6400855">
+    <name>Drinking Water</name>
+    <desc>Operator: MCP. Bottle refill available. Wheelchair accessible. At ~207.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8152525" lon="-1.6400298">
+    <name>Drinking Water</name>
+    <desc>Hours: 24/7. Bottle refill available. At ~207.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8171232" lon="-1.6433433">
+    <name>Drinking Water</name>
+    <desc>Wheelchair accessible. At ~207.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8188626" lon="-1.6447174">
+    <name>Drinking Water</name>
+    <desc>At ~207.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8163749" lon="-1.6430618">
+    <name>Drinking Water</name>
+    <desc>Bottle refill available. Wheelchair accessible. At ~208.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8155987" lon="-1.6438014">
+    <name>Drinking Water</name>
+    <desc>Wheelchair accessible. At ~208.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8167668" lon="-1.6454434">
+    <name>Fuente de Neptuno Niño</name>
+    <desc>At ~208.0km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8148353" lon="-1.6463406">
+    <name>Drinking Water</name>
+    <desc>Operator: Ayuntamiento de Pamplona. At ~208.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8120304" lon="-1.6491144">
+    <name>Drinking Water</name>
+    <desc>At ~208.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8096086" lon="-1.6459552">
+    <name>Drinking Water</name>
+    <desc>At ~208.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8090124" lon="-1.6463962">
+    <name>Drinking Water</name>
+    <desc>Access: private. At ~208.3km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8171021" lon="-1.6463228">
+    <name>Drinking Water</name>
+    <desc>At ~208.4km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8231704" lon="-1.64919">
+    <name>Drinking Water</name>
+    <desc>At ~208.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8210543" lon="-1.6500612">
+    <name>Drinking Water</name>
+    <desc>At ~208.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8201872" lon="-1.648746">
+    <name>Drinking Water</name>
+    <desc>At ~208.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8190307" lon="-1.6478663">
+    <name>Fuente de la Calle descalzos</name>
+    <desc>At ~208.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8172278" lon="-1.6494859">
+    <name>Drinking Water</name>
+    <desc>At ~208.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.817088" lon="-1.6491199">
+    <name>Drinking Water</name>
+    <desc>At ~208.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8182571" lon="-1.647024">
+    <name>Drinking Water</name>
+    <desc>Operator: MCP. Bottle refill available. Wheelchair accessible. At ~208.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8183612" lon="-1.649899">
+    <name>Drinking Water</name>
+    <desc>At ~208.5km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.820235" lon="-1.6520585">
+    <name>Drinking Water</name>
+    <desc>At ~208.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.818513" lon="-1.6505697">
+    <name>Drinking Water</name>
+    <desc>At ~208.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8159334" lon="-1.6501404">
+    <name>Drinking Water</name>
+    <desc>At ~208.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.816351" lon="-1.6500185">
+    <name>Drinking Water</name>
+    <desc>At ~208.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8162817" lon="-1.6516481">
+    <name>Drinking Water</name>
+    <desc>At ~208.7km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8164663" lon="-1.6538836">
+    <name>Drinking Water</name>
+    <desc>At ~208.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.815598" lon="-1.652275">
+    <name>Drinking Water</name>
+    <desc>At ~208.8km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8096814" lon="-1.6522691">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8139849" lon="-1.6526078">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8065867" lon="-1.6522542">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8158327" lon="-1.6589275">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8157768" lon="-1.6557423">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8163506" lon="-1.6544805">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8131316" lon="-1.6616981">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8103937" lon="-1.6606137">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.811624" lon="-1.6583713">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8129203" lon="-1.6548169">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.814411" lon="-1.6530225">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="42.8129232" lon="-1.6548079">
+    <name>Drinking Water</name>
+    <desc>At ~208.9km along route.</desc>
+    <type>Drinking Water</type>
+    <sym>Drinking Water</sym>
+  </wpt>
+</gpx>

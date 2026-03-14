@@ -1,0 +1,3173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="hydrate"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Gas Stations</name>
+    <desc>Gas stations found within 10000m of the route using OpenStreetMap data</desc>
+    <time>2026-03-14T22:03:06.053Z</time>
+  </metadata>
+  <wpt lat="41.8611696" lon="12.5332808">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ipna Petroli Società a Responsabilità Limitata. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8374051" lon="12.5082007">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Masuccio Filippo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8948464" lon="12.5683145">
+    <name>TotalErg</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.810356" lon="12.511711">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. Fuel: Diesel, Octane 95. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8794856" lon="12.5081043">
+    <name>Erg</name>
+    <desc>Brand: Erg. Operator: S.T.L. Petroli S.R.L.. Hours: 24/7. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.883876" lon="12.514721">
+    <name>Erg</name>
+    <desc>Brand: IP. Operator: S.T.L. Petroli S.R.L.. Hours: 24/7. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8639823" lon="12.5314832">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Globogest S.R.L.. Fuel: LPG, CNG. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.873076" lon="12.579968">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Easy Service S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.880933" lon="12.574115">
+    <name>Agip</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.894874" lon="12.558033">
+    <name>Erg</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8936689" lon="12.5515786">
+    <name>IP</name>
+    <desc>Brand: Api-Ip. Operator: Mereu Valter. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.883141" lon="12.57374">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: M.R. S.N.C. di Moschetto G. e C.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.882929" lon="12.5344717">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Tenzi Alessandro. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8613446" lon="12.5341886">
+    <name>Gasauto</name>
+    <desc>Brand: Gasauto. Operator: Pascoli C. e D. di Claudio Pascoli S.N.C.. Fuel: LPG. Note: Check if the operator is still the same. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9107889" lon="12.5489749">
+    <name>Q8 Easy</name>
+    <desc>Brand: Q8 Easy. Operator: Servizi &amp; Gestioni Italia S.R.L.. Hours: 24/7. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.922957" lon="12.5468358">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Morlacci Giuseppe. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9162846" lon="12.6028284">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8643292" lon="12.5415205">
+    <name>Total</name>
+    <desc>Brand: Total. Operator: Total. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8890824" lon="12.5349028">
+    <name>Gas Station</name>
+    <desc>Operator: Antonelli Fabio. Fuel: Diesel, Octane 95. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.894786" lon="12.565811">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Festucci Massimo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.863547" lon="12.531719">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Termo Trading Petroli S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8926035" lon="12.5080874">
+    <name>Agip</name>
+    <desc>Brand: Agip. Operator: Fragiacomo Vincenzo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.874755" lon="12.607327">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Nuova Sidap S.R.L.. Fuel: LPG. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9130696" lon="12.5648655">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Autoservizi Gia.Da. S.N.C. di Pizzuti Damiano e Gianluca. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8636937" lon="12.5492672">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Bernardini Luca. Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8661971" lon="12.5414372">
+    <name>EWA</name>
+    <desc>Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.826787" lon="12.518583">
+    <name>Gas Station</name>
+    <desc>Brand: Repsol. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8527323" lon="12.4950977">
+    <name>Api</name>
+    <desc>Brand: Api. Operator: Ip Services S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.837307" lon="12.50046">
+    <name>IP</name>
+    <desc>Brand: Total Erg. Operator: Gestioni Europa S.p.A.. Fuel: LPG. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.879831" lon="12.5288182">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia Srl. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8660579" lon="12.4964962">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Angeloni Roberto. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8101671" lon="12.5287432">
+    <name>Gas Station</name>
+    <desc>Brand: Esso. Operator: Enerpetroli S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8562217" lon="12.4881676">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: F.lli Giallo Bartolomeo Vincenza e Gaspare - Società in Nome Coll Ettivo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9176776" lon="12.5269502">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Parente Simone &amp; C. S.A.S.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9196696" lon="12.5333211">
+    <name>Gas Station</name>
+    <desc>Brand: Esso. Operator: Graziani Claudio. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9203722" lon="12.5335021">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Hp Project S.A.S. di Perini Stefano e C.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9078421" lon="12.5146209">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Termo Trading Petroli S.R.L.. Hours: 24/7. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8927931" lon="12.541217">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Gattuso Daniele. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8747914" lon="12.5128318">
+    <name>Smaf</name>
+    <desc>Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8623403" lon="12.5517854">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Chessa Stefano. Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.851731" lon="12.4873597">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: So.Gi.C Società in Nome Collettivo di Adriano Celli e C.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9063104" lon="12.52146">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Paris Daria. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9435421" lon="12.5706931">
+    <name>Api</name>
+    <desc>Brand: Icm. Operator: I.C.M. Società in Nome Collettivo di Bruno Cristiano e Fabrizio Maggi. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8805801" lon="12.4836339">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Bepary Mohadev. Hours: Mo-Su,PH 00:00-00:00. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8849546" lon="12.5729228">
+    <name>Api-Ip</name>
+    <desc>Brand: Api-Ip. Operator: Trotta Emilio Daniel. Fuel: CNG. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8597832" lon="12.4950692">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Meridionale Petroli - Società a Responsabilita Limitata S.M.P.. Hours: 24/7. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8801241" lon="12.5013889">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Multari Santo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.850291" lon="12.5151808">
+    <name>Gas Station</name>
+    <desc>Brand: Esso. Operator: Essegi di Iafrati Giorgio. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.855056" lon="12.4910349">
+    <name>Stazione di Servizio TotalErg</name>
+    <desc>Brand: IP. Operator: Petrolgem di Mario Tirocchi &amp; C. S.A.S.. Hours: 24/7. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8670627" lon="12.4885566">
+    <name>Gas Station</name>
+    <desc>Brand: Total Erg. Operator: Malpassi Andrea. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8670564" lon="12.4891049">
+    <name>Gas Station</name>
+    <desc>Brand: Agip. Operator: Autoservizi Fa.Le. Società in Nome Collettivo di Fabio Fabiani. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8670444" lon="12.4899673">
+    <name>Gas Station</name>
+    <desc>Brand: Q8. Operator: Curti Christian. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8393289" lon="12.5461672">
+    <name>bianco</name>
+    <desc>Brand: Repsol. Operator: Termo Trading Petroli S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.844968" lon="12.5492124">
+    <name>Agip</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.844926" lon="12.5489335">
+    <name>Erg</name>
+    <desc>At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8945973" lon="12.5170556">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Trotta Emilio Daniel. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8657087" lon="12.4843043">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ullah Md Safi. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8825035" lon="12.5358105">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Brunettini Massimo. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8514926" lon="12.492786">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Sarker Abdur Rahman. Fuel: Octane 95. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8927216" lon="12.5373463">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: A &amp; Ti Carburanti S.N.C. Di Ticani e di Di Giannantonio. Fuel: Diesel. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8689668" lon="12.5317429">
+    <name>Smaf Service Market Fuel</name>
+    <desc>Fuel: Diesel. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8687519" lon="12.5382759">
+    <name>Gas Station</name>
+    <desc>Brand: IP Matic. Operator: Gestioni Europa - Società Per Azioni. Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9030152" lon="12.5074162">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Valente Luca. Hours: 24/7. Fuel: Diesel, Octane 95. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9089632" lon="12.5223982">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Iadecola Gianluca. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8059018" lon="12.5084383">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Raimondi Mauro. Fuel: LPG, CNG. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8710552" lon="12.5131492">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Fragiacomo Giuseppe. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9345433" lon="12.5831549">
+    <name>Gas Station</name>
+    <desc>Brand: Total Erg. Operator: Di Stefano Mauro. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9122015" lon="12.5525866">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Tiburtina Carburanti Società in Accomandita Semplice di Pacillo Giuseppe Emilio &amp; C.. Fuel: Diesel, HGV Diesel. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8815915" lon="12.5188994">
+    <name>Gas Station</name>
+    <desc>Brand: Star Oil. Operator: Sisti Giovanni. Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8744731" lon="12.5225597">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Meridionale Petroli - Società a Responsabilita Limitata S.M.P.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9106854" lon="12.5497682">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: D.S. Carburanti Snc di Saccocci Luciano &amp; C. - Società in Nome C Ollettivo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8743966" lon="12.569661">
+    <name>Gas Station</name>
+    <desc>At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9116601" lon="12.5971068">
+    <name>Gas Station</name>
+    <desc>Brand: IP. Fuel: Octane 95, LPG. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9127122" lon="12.6077389">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Relati S.A.S. di Relati Simone. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8593744" lon="12.5711836">
+    <name>Gas Station</name>
+    <desc>Brand: IP. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8592474" lon="12.5714441">
+    <name>Gas Station</name>
+    <desc>Brand: Total Erg. Operator: Fitav Srl. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8590842" lon="12.5676445">
+    <name>Gas Station</name>
+    <desc>Brand: Myoil. Operator: Petrol Society- Società a Responsabilita Limitata. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8543279" lon="12.5685758">
+    <name>Smaf</name>
+    <desc>Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8554237" lon="12.5691298">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Nigris Fabrizio. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8680164" lon="12.5303818">
+    <name>ICM</name>
+    <desc>Brand: Icm. Operator: I.C.M. Società in Nome Collettivo di Bruno Cristiano e Fabrizio Maggi. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8595825" lon="12.4904349">
+    <name>Impianto Carburanti TTP17</name>
+    <desc>Brand: Tamoil. Hours: 24/7. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8558132" lon="12.5593187">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Tenzi Alessandro. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.895292" lon="12.5704347">
+    <name>Smaf</name>
+    <desc>Operator: T.D.M. S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8911599" lon="12.5022893">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Trotta Emilio Daniel. Fuel: Diesel. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8852937" lon="12.5436742">
+    <name>MGPetroli</name>
+    <desc>Operator: Di Paolo Errico. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8935665" lon="12.5949777">
+    <name>Gestione Carburanti SAS</name>
+    <desc>Brand: IP. Operator: Gestione Carburanti - Società in Accomandita Semplice di Marcell o Grassetti. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9130154" lon="12.5527636">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Mukta Easmin Sikder. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9137937" lon="12.5520342">
+    <name>Q8 Easy</name>
+    <desc>Brand: Q8 Easy. Operator: Servizi &amp; Gestioni Italia Srl. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9269288" lon="12.5702881">
+    <name>Ip</name>
+    <desc>Brand: Api-Ip. Operator: Itala Petroli S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8869437" lon="12.5350539">
+    <name>Gas Station</name>
+    <desc>Brand: Retitalia. Operator: Falasca Benito. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9061928" lon="12.5720707">
+    <name>Metano</name>
+    <desc>Operator: Super Service Società a Responsabilità Limitata. Hours: Mo-Su 08:00-22:00. Fuel: CNG. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8571711" lon="12.5009125">
+    <name>Gas Station</name>
+    <desc>Brand: Icm. Operator: I.C.M. Società in Nome Collettivo di Bruno Cristiano e Fabrizio Maggi. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8837694" lon="12.5070243">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Hossain Sheikh Jabber. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8868845" lon="12.5680885">
+    <name>Gas Station</name>
+    <desc>Brand: Q8. Operator: Pelagaggi Gabriele. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8892503" lon="12.5424632">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia Srl. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.90493" lon="12.5356762">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Eni Fuel S.P.A.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9021515" lon="12.5701735">
+    <name>Auchan</name>
+    <desc>Brand: Auchan. Operator: Auchan S.P.A.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8839544" lon="12.5375271">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Siciliani Massimiliano. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.920581" lon="12.5469973">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Biswas Haripada. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9331678" lon="12.5926401">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Caputo Antonio. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.894319" lon="12.5897999">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.891203" lon="12.5284538">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Kabir Hossain. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8506219" lon="12.5678322">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Fitav Srl. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8578066" lon="12.5663733">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Hossain Moktar. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9292295" lon="12.5864584">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Pucci Enzo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9365095" lon="12.5816009">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ro.Sa. Auto di Calcaterra Romano e Trotta Salvatore - Società In Nome Collettivo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8825111" lon="12.53901">
+    <name>Repsol</name>
+    <desc>Brand: Repsol. Operator: T. Petrol S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8335452" lon="12.4969221">
+    <name>TotalErg</name>
+    <desc>Brand: TotalErg. Operator: Gestioni Europa - Società Per Azioni. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8901871" lon="12.5754136">
+    <name>Gas Station</name>
+    <desc>Brand: Agip Eni. Operator: D.O.C.C.A. Distribuzione Olii Combustibili Carburanti Affini S.R. L. In Sigla D.O.C.C.A. S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9196821" lon="12.5456829">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8798063" lon="12.5224368">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Md. Abu Hanif. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8558315" lon="12.5531271">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Meridionale Petroli - Società A Responsabilita Limitata S.M.P.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9049197" lon="12.597051">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8909166" lon="12.5236462">
+    <name>Gas Station</name>
+    <desc>Brand: Tamoil. Operator: T.D.M. S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9084428" lon="12.5416981">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Ip Services S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8885053" lon="12.5423742">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Coro S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9199731" lon="12.5893633">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Desideri Paolo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8938891" lon="12.5506166">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Meridionale Petroli - Società A Responsabilita Limitata S.M.P.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8865598" lon="12.5659597">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Meridionale Petroli - Società A Responsabilita Limitata S.M.P.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9328138" lon="12.5897212">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Trotta Emilio Daniel. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9047401" lon="12.6038209">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8954189" lon="12.5917268">
+    <name>Gas Station</name>
+    <desc>Brand: Esso. Operator: Marlia Francesco. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8556843" lon="12.5587403">
+    <name>Gas Station</name>
+    <desc>Brand: Agip Eni. Operator: Fattinnanzi Massimo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9035132" lon="12.5845478">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: D.O.C.C.A. Distribuzione Olii Combustibili Carburanti Affini S.R. L. In Sigla D.O.C.C.A. S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9201552" lon="12.5461737">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Carburanti Durantini di Cirulli Sergio. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8969478" lon="12.5403652">
+    <name>IP Matic</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.896442" lon="12.5585634">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Meridionale Petroli - Società A Responsabilita Limitata S.M.P.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8758111" lon="12.5714278">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8935495" lon="12.6084249">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Lacopo Antonio. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9337965" lon="12.5840692">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Sa.Gi. Service S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8880153" lon="12.5615633">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Ge.Ma. - S.N.C. di Marfia Claudio Antonio e di Bello Matteo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8923793" lon="12.5602967">
+    <name>Gas Station</name>
+    <desc>Brand: Total Erg. Operator: N.O.R.M. Carburanti S.N.C. di Battista Nadio Imperiale Raffaele &amp; C.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9087843" lon="12.5420633">
+    <name>Gas Station</name>
+    <desc>Brand: Keropetrol. Operator: Pedulla&apos; Giuseppe. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8715084" lon="12.4928306">
+    <name>Eni</name>
+    <desc>Brand: Eni. Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8811891" lon="12.5001081">
+    <name>Retitalia</name>
+    <desc>Brand: Retitalia. Operator: Fazzari Francesco. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8771818" lon="12.5505901">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Sabatino Prospero. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8658871" lon="12.5351236">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Capasso Giuseppe. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8590607" lon="12.5579031">
+    <name>Gas Station</name>
+    <desc>Brand: Agip Eni. Operator: Citrigno Gaetano. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8324047" lon="12.5690344">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Citrigno Gaetano. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8790602" lon="12.5724536">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Antinucci Domenico. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8952793" lon="12.5691057">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Coltella Robertino. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8912845" lon="12.563037">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Rapanotti Massimiliano. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8611668" lon="12.5593022">
+    <name>Gas Station</name>
+    <desc>Brand: IP. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9112256" lon="12.5397053">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Dionisi Mario. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8920247" lon="12.5308742">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Burattini Marco. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9068359" lon="12.589186">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8948717" lon="12.5689275">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8898757" lon="12.5611287">
+    <name>Gas Station</name>
+    <desc>Brand: 7Sette. Operator: Fraschetti Eugenio. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9110941" lon="12.5966584">
+    <name>Q8</name>
+    <desc>Brand: Q8. Fuel: Octane 95, LPG. Self-service. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8372624" lon="12.5512242">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Santosuosso Angelo. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8772978" lon="12.5723994">
+    <name>Gas Station</name>
+    <desc>Operator: Wilman - S.A.S. di Salzillo Charles Salvatore Maria &amp; C.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8944975" lon="12.5924043">
+    <name>Gas Station</name>
+    <desc>Operator: Milita Cristina. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8723981" lon="12.5477133">
+    <name>Effegiesse</name>
+    <desc>Operator: Fgs Gas S.A.S. di Civitella Giorgio. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8671808" lon="12.5407778">
+    <name>Gas Station</name>
+    <desc>Operator: Termo Trading Petroli S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8495342" lon="12.4885219">
+    <name>Gas Station</name>
+    <desc>Brand: TTP. Operator: Termo Trading Petroli S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8763213" lon="12.5551421">
+    <name>Gas Station</name>
+    <desc>Operator: A.G.I. Roma Sud S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8719181" lon="12.5408319">
+    <name>Gas Station</name>
+    <desc>Operator: Fonte Delle Mattinate 33 - S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8769645" lon="12.5101766">
+    <name>Gas Station</name>
+    <desc>Operator: Ro.Ka. Società in Nome Collettivo di Kashem Abul e C.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8820885" lon="12.4867056">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Gestioni Riunite G.R. S.R.L.. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8674014" lon="12.4889034">
+    <name>IP</name>
+    <desc>Brand: IP. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8592389" lon="12.5528778">
+    <name>Gas Station</name>
+    <desc>Brand: Smaf. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8896531" lon="12.5345291">
+    <name>IP</name>
+    <desc>Brand: IP. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9187003" lon="12.5897468">
+    <name>Enerpetroli</name>
+    <desc>Brand: Enerpetroli. Fuel: Diesel, Octane 98, CNG. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8940869" lon="12.5783699">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Paglia S.A.S. di Paglia Pino. Fuel: Diesel, LPG. Cash accepted. Credit cards accepted. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8531919" lon="12.5634094">
+    <name>Gas Station</name>
+    <desc>At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8751297" lon="12.5284008">
+    <name>Q8</name>
+    <desc>Brand: Q8. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8664984" lon="12.5866052">
+    <name>Esso</name>
+    <desc>Brand: Esso. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8570782" lon="12.5910978">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Europa SpA. Fuel: Diesel, Octane 95. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8607499" lon="12.5858648">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Ionel Dumitru. Fuel: Diesel, Octane 98, LPG, CNG. Cash accepted. Credit cards accepted. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8714893" lon="12.5339419">
+    <name>Eni</name>
+    <desc>Brand: Eni. Hours: 24/7. Self-service. Wheelchair accessible. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8891719" lon="12.5905868">
+    <name>Gas Station</name>
+    <desc>Operator: Q8. At ~0.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.950518" lon="12.571197">
+    <name>Agip</name>
+    <desc>Brand: Agip Eni. Operator: Distributore Eni di Pisaniello Pierpaolo. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.949405" lon="12.563902">
+    <name>Erg</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. Fuel: Diesel, Octane 95, Octane 98. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.925837" lon="12.5225285">
+    <name>Erg</name>
+    <desc>Brand: IP. Operator: Erg. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.937489" lon="12.5458263">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Eco Gasauto S.R.L. Socio Unico. Fuel: LPG. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8932522" lon="12.4881331">
+    <name>Agip</name>
+    <desc>Brand: Agip. Operator: Trotta Andrea. Fuel: Diesel, Octane 95. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9240715" lon="12.5162807">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Lorusso Francesco. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9245872" lon="12.516478">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Carburanti Durantini di Cirulli Sergio. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9247812" lon="12.5213706">
+    <name>TotalErg</name>
+    <desc>Brand: IP. Operator: Alam Mohammad Maha Bub. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9231125" lon="12.5199187">
+    <name>IP</name>
+    <desc>Brand: Api-Ip. Operator: Md Farid Miah. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9233792" lon="12.5202243">
+    <name>Erg</name>
+    <desc>Operator: Termo Trading Petroli S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9261522" lon="12.5228398">
+    <name>Gas Station</name>
+    <desc>Operator: S.T.L. Petroli S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9269116" lon="12.5236488">
+    <name>Gas Station</name>
+    <desc>At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9292169" lon="12.5154605">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Miah Nurul. Self-service. Wheelchair accessible. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9285017" lon="12.519383">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Bepary Masum. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9342131" lon="12.5140374">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Ballabene S.A.S. di Ballabene Roberto &amp; C.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.920699" lon="12.5036958">
+    <name>Eni Live</name>
+    <desc>Brand: Agip Eni. Operator: Tagliamento Carburanti di Mosconi Franco &amp; C. Società in Accomandita Semplice. Hours: 24/7. Self-service. Wheelchair accessible. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9360255" lon="12.5244203">
+    <name>Gas Station</name>
+    <desc>At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.938249" lon="12.5263383">
+    <name>Gas Station</name>
+    <desc>At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9378493" lon="12.5259138">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: D&apos;Antonio S.A.S. di D&apos;Antonio Nicola. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9158831" lon="12.5051629">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Carburanti Piccolo di Piccolo Antonio. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9210231" lon="12.525596">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Samar Carburanti di Mittica Giuseppe &amp; C. Società in Nome Collet Tivo. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9186091" lon="12.5223138">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: De Petrillo Nino. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.945915" lon="12.5311527">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Berardo Emilio e Adducchio Michele S.N.C.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9361355" lon="12.5340468">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Gargano di Di Bernardo Vincenzo Società in Accomandita Semplice. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9344923" lon="12.5140726">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Stazione di Servizio Ramelli F. &amp; Mosca G. S.N.C.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9442905" lon="12.5274614">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Cromapetroli - Società a Responsabilità Limitata. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9213915" lon="12.5259303">
+    <name>Gas Station</name>
+    <desc>At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9660636" lon="12.5397308">
+    <name>Gas Station</name>
+    <desc>Brand: Eni. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9667576" lon="12.5391756">
+    <name>Gas Station</name>
+    <desc>Brand: Eni. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.911052" lon="12.5145554">
+    <name>Enerpetroli</name>
+    <desc>Brand: Enerpetroli. Operator: Enerpetroli S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9109313" lon="12.5086344">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Bapari Shapon. Fuel: Diesel, Octane 95. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9113514" lon="12.5091601">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Scalise Milziade. Fuel: Diesel, Octane 95. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9458666" lon="12.5241917">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Monteriu&apos; Alessandro. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9513283" lon="12.5252078">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Fericar S.A.S. di Ciccone Carmela. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9439399" lon="12.5429326">
+    <name>Gas Station</name>
+    <desc>Brand: Toil. Operator: Toil S.P.A.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.945607" lon="12.53283">
+    <name>Gas Station</name>
+    <desc>Brand: Total Erg. Operator: Kabir Md. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9517309" lon="12.52855">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Maggiolo Alessandro. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9201611" lon="12.5086377">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ghosh Liton Kumar. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9336993" lon="12.5299658">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Autoservizi Fa.Le. Società In Nome Collettivo di Fabio Fabiani. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9237761" lon="12.5150897">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Islam Saiful. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9479818" lon="12.5255202">
+    <name>Smaf</name>
+    <desc>Brand: IP. Operator: Masum Babul. Fuel: Diesel, Octane 95. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9310802" lon="12.5239989">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Sheikh Oil S.R.L.S.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9160782" lon="12.5025111">
+    <name>Gas Station</name>
+    <desc>Brand: Agip Eni. Operator: Di Francesco Distributori S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9474812" lon="12.5364221">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9419208" lon="12.5241399">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: D.O.C.C.A. Distribuzione Olii Combustibili Carburanti Affini S.R. L. In Sigla D.O.C.C.A. S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9448084" lon="12.5349958">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. Fuel: Diesel, Octane 95. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9466247" lon="12.5313787">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9404128" lon="12.524437">
+    <name>Gas Station</name>
+    <desc>Brand: Q8. Operator: Miah Sohel. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9439884" lon="12.5460981">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Di Mario Stefano. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.961294" lon="12.5357605">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. Fuel: LPG. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9360794" lon="12.532644">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Meridionale Petroli - Società A Responsabilita Limitata S.M.P.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9457203" lon="12.5264711">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Pit Stop di Lacopo Stefano Snc. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9391255" lon="12.5476091">
+    <name>CP</name>
+    <desc>Brand: Cp. Operator: G.M.V. S.N.C. di Lacopo Anna Maria. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9182768" lon="12.5141475">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Biswas Haripada. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9353016" lon="12.5366791">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: D.R.P. 2010 S.A.S. di Di Renzo Marina e Panarinfo Francesco. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9302576" lon="12.5175282">
+    <name>Gas Station</name>
+    <desc>Operator: Termo Trading Petroli S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9327668" lon="12.5242477">
+    <name>IP</name>
+    <desc>Brand: IP. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9323466" lon="12.5246903">
+    <name>Gas Station</name>
+    <desc>At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9463604" lon="12.5232413">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Marcattili Giovanni. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9524869" lon="12.5685565">
+    <name>Gas Station</name>
+    <desc>At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9539463" lon="12.5440519">
+    <name>Panta</name>
+    <desc>Brand: IP. Operator: Panta Impianti Distribuzione Carburanti e Affini S.R.L.. At ~0.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.908989" lon="12.4927176">
+    <name>Api</name>
+    <desc>Brand: IP. Operator: Centro Servizi di Bono Paolo e C. S.N.C.. At ~1.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.938428" lon="12.505258">
+    <name>Gas Station</name>
+    <desc>Brand: Q8. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9345667" lon="12.5088926">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Aga di Antoniella Giuliano S.A.S.. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9168173" lon="12.4958613">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Ponchielli Carburanti di Giovannini Felice e Ferro Domenico Snc. Fuel: Diesel, Octane 95. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9462834" lon="12.5071481">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Catena e Coppola di Catena S. e Coppola G. S.A.S.. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9397672" lon="12.4932117">
+    <name>Eni</name>
+    <desc>Brand: Eni. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9465327" lon="12.5064919">
+    <name>Gas Station</name>
+    <desc>Brand: Esso. Operator: Salaria Services di Pasquale Pallotta e C. S.A.S.. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9389216" lon="12.5042016">
+    <name>Gas Station</name>
+    <desc>Brand: Esso. Operator: Ga.So. S.N.C. di Agomeri Gianluca &amp; C.. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9692603" lon="12.5238021">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Discepolo Simone. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.925831" lon="12.4876055">
+    <name>Senza Piombo</name>
+    <desc>Hours: 24/7. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9491522" lon="12.5066138">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Siciliani Massimiliano. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9279383" lon="12.4864728">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Carburanti Piccolo di Piccolo Antonio. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9560714" lon="12.5234485">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Awal Abdul. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9460972" lon="12.5170021">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Masum Babul. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9281929" lon="12.493286">
+    <name>Gas Station</name>
+    <desc>Brand: Tamoil. Operator: F.G.I. Sas di Nuzzo Giuliana &amp; C.. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9257157" lon="12.4880381">
+    <name>Gas Station</name>
+    <desc>Brand: Q8. Operator: Cama Petroli di Mazzone Stefano &amp; C. - Società In Accomandita Se Mplice. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.939707" lon="12.4945718">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: La Vista Franco. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9159929" lon="12.4940517">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Galluzzo Mauro. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9465251" lon="12.5161123">
+    <name>Gas Station</name>
+    <desc>Operator: Giovanrosa &amp; Marella S.N.C. At ~1.5km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8886625" lon="12.47842">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Irrera Francesco. At ~1.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.860684" lon="12.442811">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Zaki Oil di Zaki Valentina e C. S.N.C.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8645415" lon="12.422337">
+    <name>Api</name>
+    <desc>Brand: Api-Ip. Operator: Natale Antonio. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8525852" lon="12.4768841">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia Srl. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8236421" lon="12.4797317">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia Srl. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.832247" lon="12.481059">
+    <name>ENI</name>
+    <desc>Brand: Eni. Operator: Eni Fuel S.P.A.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.84766" lon="12.457343">
+    <name>Eni</name>
+    <desc>Brand: Eni. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8505872" lon="12.4350532">
+    <name>Shell</name>
+    <desc>Brand: Shell. Operator: Servizi &amp; Gestioni Italia S.R.L.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.853125" lon="12.451109">
+    <name>Gas Station</name>
+    <desc>Operator: Italiana Petroli 1980 S.R.L.S.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.85706" lon="12.458665">
+    <name>Gas Station</name>
+    <desc>Brand: Edra Oil. Operator: Edra Oil Srl.. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8710008" lon="12.4606639">
+    <name>Agip</name>
+    <desc>Brand: Tamoil. Operator: Ferretti Carburanti S.N.C. di Luca e Alessandro Ferretti. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8166103" lon="12.4615133">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Fepar Petroli &amp; C. S.N.C. di Berti Ferdinando. Fuel: LPG. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.82622" lon="12.455031">
+    <name>Gas Station</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia Srl. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8671396" lon="12.4666883">
+    <name>Total</name>
+    <desc>Brand: TotalEnergies. Operator: Enerpetroli S.R.L.. Hours: PH,Mo-Su 00:00-24:00. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8456107" lon="12.4849411">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Easy Service S.R.L.. Hours: 24/7. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.872217" lon="12.443106">
+    <name>Total</name>
+    <desc>Brand: Total. Operator: Dadas Malgorzata Danuta. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.837076" lon="12.4730469">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Passariello Gianluca. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.865836" lon="12.4788407">
+    <name>Tpp Roma</name>
+    <desc>Operator: Termo Trading Petroli S.R.L.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8189437" lon="12.4669844">
+    <name>TotalErg</name>
+    <desc>Brand: Total Erg. Operator: Omnia Service di Roberto di Vincenzo - Alessandro Concutelli &amp; C. S.A.S. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.819692" lon="12.468109">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: IP. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8493776" lon="12.4353989">
+    <name>Total</name>
+    <desc>Brand: Total. Operator: Total. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.858927" lon="12.44285">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia Srl. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8500486" lon="12.441604">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Eni Fuel S.P.A.. Hours: PH,Mo-Su 00:00-24:00. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.83713" lon="12.46312">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Esso. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.839803" lon="12.473731">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Esso. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8371006" lon="12.4723523">
+    <name>Api</name>
+    <desc>Brand: IP. Operator: Mattei Venanzo. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.83144" lon="12.469493">
+    <name>Ip</name>
+    <desc>Brand: IP. Operator: Colombo Oil Sas di Mattei Venanzo e Passariello Gianluca. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8618968" lon="12.4630225">
+    <name>IP</name>
+    <desc>Brand: IP. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8301898" lon="12.4693588">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: M.A.C. di Marco Cavola &amp; C. - Società in Accomandita Semplice. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8763137" lon="12.4712449">
+    <name>Petrol Gamma</name>
+    <desc>Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8774892" lon="12.4756997">
+    <name>Eni</name>
+    <desc>Brand: Eni. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8524545" lon="12.4754158">
+    <name>Total</name>
+    <desc>Brand: TotalEnergies. Operator: Sarker Abdur Rahman. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8843882" lon="12.4552216">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Obedea Cosmin Costica. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8517481" lon="12.4350246">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Eni Fuel S.P.A.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8439997" lon="12.4106667">
+    <name>IP</name>
+    <desc>Brand: Api-Ip. Operator: Shaik Mahabub Alom. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8235717" lon="12.4579766">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Eur Carburanti S.N.C. di Pascucci Massimo e Casaroli Anna Rita. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8562387" lon="12.471269">
+    <name>IP</name>
+    <desc>Brand: Api-Ip. Operator: Ip Services S.R.L.. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8500943" lon="12.4740712">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Bhuiyan Ibrahim. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8466807" lon="12.4801808">
+    <name>Gas Station</name>
+    <desc>Brand: Retitalia. Operator: Rahman Habibur. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8504132" lon="12.4844834">
+    <name>Petrol Italia</name>
+    <desc>Brand: PI Petrol Italia. Operator: Elle Emme Petroli Srl. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8458001" lon="12.4759527">
+    <name>Repsol</name>
+    <desc>Operator: Paradisi Angelo. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8232686" lon="12.4577166">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Della Bina Sante e Piazza Fiorella - Società in Nome Collettivo. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8615534" lon="12.4698147">
+    <name>Eni</name>
+    <desc>Brand: Eni. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8578289" lon="12.4708615">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: F.I.N. Snc di Irene Nuzzo &amp; C.. Hours: 24/7. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8585131" lon="12.4488867">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Larosa Salvatore. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.873895" lon="12.4429823">
+    <name>Enerpetroli</name>
+    <desc>Brand: Enerpetroli. Operator: Enerpetroli S.R.L.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8703068" lon="12.4434959">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Gilda Petroli S.N.C. di Sergio Morelli &amp; C.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8616085" lon="12.4702793">
+    <name>Eni</name>
+    <desc>Brand: Eni. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8474083" lon="12.487256">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Cromapetroli - Società a Responsabilità Limitata. Hours: 24/7. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.864508" lon="12.4435218">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Lu.M.A. S.A.S. di Morotti Andrea. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8260293" lon="12.4556591">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Baccheschi Petroli di Mario Baccheschi e C. -S.N.C.-. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8202275" lon="12.4041591">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Ri.Ge.Soc. Srl.. Fuel: LPG, CNG. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8609473" lon="12.4651451">
+    <name>IP</name>
+    <desc>Brand: Api-Ip. Operator: Ip Services S.R.L.. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8470367" lon="12.4875748">
+    <name>IP</name>
+    <desc>Brand: IP. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8556418" lon="12.4775532">
+    <name>Gas Station</name>
+    <desc>Brand: Eni. Operator: Eni Fuel S.P.A.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8753761" lon="12.4461874">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gambini Gaetano. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8281928" lon="12.4723924">
+    <name>Gas Station</name>
+    <desc>Brand: Agip Eni. Operator: Eni Fuel S.P.A.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8004991" lon="12.4813887">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Ip Services S.R.L.. Fuel: Diesel. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8742839" lon="12.4780522">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestione Carburanti - Società in Accomandita Semplice di Marcell o Grassetti. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8634905" lon="12.4784542">
+    <name>Petrol Italia</name>
+    <desc>Brand: Petrol Italia. Operator: Dibeol Ecologica S.R.L.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8806842" lon="12.4668894">
+    <name>Star Oil</name>
+    <desc>Brand: Agip. Operator: Potestà Massimo. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8496816" lon="12.4582939">
+    <name>Esso</name>
+    <desc>Brand: Esso. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8534474" lon="12.4725287">
+    <name>Toil</name>
+    <desc>Brand: Toil. Operator: Celentano Andrea. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8571473" lon="12.4451682">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Rossetti S.R.L.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8585603" lon="12.4596215">
+    <name>Q8easy</name>
+    <desc>Brand: Q8 Easy. Operator: Servizi &amp; Gestioni Italia Srl. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.839686" lon="12.4372208">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Europa S.P.A.. Hours: 24/7. Cash accepted. Credit cards accepted. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8747575" lon="12.4433466">
+    <name>Retitalia</name>
+    <desc>Brand: Retitalia. Operator: Ullah Mohammad Khalil. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8516764" lon="12.4343603">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Md Farid Miah. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8559593" lon="12.4833846">
+    <name>Gas Station</name>
+    <desc>Brand: Smaf. Operator: Siciliani Massimiliano. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8508658" lon="12.485132">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Verde Campi di Verde Valentina. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8612309" lon="12.4519863">
+    <name>Retitalia</name>
+    <desc>Brand: Retitalia. Operator: Schiaffi Fabrizio. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8710037" lon="12.4499752">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Hossain Sheikh Jabber. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8447762" lon="12.4362833">
+    <name>Retitalia</name>
+    <desc>Brand: Retitalia. Operator: Ullah Shafi. Cash accepted. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8302309" lon="12.4688097">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Laghetto Carburanti S.A.S. di Santarelli Alfredo &amp; C.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8623013" lon="12.4464251">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Md Farid Miah. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8767148" lon="12.4594054">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gargari Renzo. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8610775" lon="12.4635869">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: T.D.M. S.R.L.. Hours: 24/7. Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8847929" lon="12.4584299">
+    <name>Gas Station</name>
+    <desc>Operator: Gestione Carburanti - Società In Accomandita Semplice di Marcell O Grassetti. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8841973" lon="12.4609309">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Vi.Ro. Servizi S.A.S. di Vittorio Silveri. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8820915" lon="12.4609226">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: F.G.I. Sas di Nuzzo Giuliana &amp; C.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8639344" lon="12.4559791">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Ip Services S.R.L.. Hours: PH,Mo-Su 00:00-24:00. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8650439" lon="12.4484839">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Ip Services S.R.L.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8516082" lon="12.4334272">
+    <name>Esso</name>
+    <desc>Brand: Esso. Hours: 24/7. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8772687" lon="12.4653803">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Schiavello Pier Domenico. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8662871" lon="12.4610925">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Falchetti Emanuele. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8687056" lon="12.4433">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8670109" lon="12.4441811">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Ip Services S.R.L.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8643506" lon="12.4646574">
+    <name>Gas Station</name>
+    <desc>Brand: Agip Eni. Operator: Meridionale Petroli - Società A Responsabilita Limitata S.M.P.. Hours: Mo-Su 00:00-24:00. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8760183" lon="12.4544291">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Garofoli Roberto. Hours: 24/7. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8651207" lon="12.4489892">
+    <name>Gas Station</name>
+    <desc>Brand: Retitalia. Operator: Piluso Maurizio. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8551773" lon="12.4200767">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Montanari Elio. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8740711" lon="12.4567845">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Ferretti Paolo. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8696006" lon="12.4386162">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Rosignoli Sergio e Alberto - Società In Nome Collettivo.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8637233" lon="12.4554547">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Manoni Stefano. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8293841" lon="12.4803054">
+    <name>Gas Station</name>
+    <desc>Brand: Smaf. Operator: Perrone Mauro. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8629833" lon="12.4471624">
+    <name>Gas Station</name>
+    <desc>Operator: Termo Trading Petroli S.R.L.. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.851338" lon="12.4734792">
+    <name>Gas Station</name>
+    <desc>Operator: Padiglioni Carburanti Srl. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8836036" lon="12.4609785">
+    <name>Gas Station</name>
+    <desc>Operator: Massaro Carlo. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8804078" lon="12.4565323">
+    <name>Petrolitalia</name>
+    <desc>Operator: Suriano Gianfranco. Hours: Mo-Su 00:00;23:59. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.847886" lon="12.4871699">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Hours: 24/7. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8570202" lon="12.4804325">
+    <name>Q8</name>
+    <desc>Brand: Q8. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8218518" lon="12.4644221">
+    <name>Synergy</name>
+    <desc>Brand: Synergy. Operator: Penta Petroli Srl. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8611013" lon="12.4654353">
+    <name>Smaf</name>
+    <desc>Self-service. Wheelchair accessible. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8445835" lon="12.454684">
+    <name>Gas Station</name>
+    <desc>At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8698071" lon="12.4524288">
+    <name>Esso</name>
+    <desc>At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8203056" lon="12.4735596">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Self-service. At ~4.1km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8795588" lon="12.440178">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Tucci Claudio. Hours: Mo-Sa 06:00-20:00; Su 07:00-13:00. Fuel: LPG. At ~4.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8707554" lon="12.4126738">
+    <name>Api</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~4.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8758021" lon="12.4172439">
+    <name>Total</name>
+    <desc>Brand: TotalEnergies. Operator: Gestioni Europa - Società Per Azioni. At ~4.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8671385" lon="12.4116214">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Venettoni Corrado. At ~4.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8781677" lon="12.4423063">
+    <name>SMAF</name>
+    <desc>Brand: SMAF. Operator: Bonelli Claudia. Hours: 24/7. Fuel: Diesel, Octane 98. At ~4.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8690227" lon="12.4223887">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Saidur Zaman Bachchu. At ~4.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8771923" lon="12.4278505">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Tamilia Giuseppe. At ~4.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8550481" lon="12.3994752">
+    <name>Repsol</name>
+    <desc>Brand: Repsol. Operator: Gi.Fre. S.A.S. di Frezza Gianni. Fuel: LPG. At ~4.8km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.861608" lon="12.3755945">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Duepi Petroli - Società a Responsabilità Limitata. Fuel: Diesel, LPG, CNG. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8841121" lon="12.4218355">
+    <name>Q8</name>
+    <desc>Brand: Api-Ip. Operator: Itala Petroli S.R.L.. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.86072" lon="12.374248">
+    <name>Api</name>
+    <desc>Brand: IP. Operator: Dobar Diesel S.R.L.. Fuel: LPG. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8905363" lon="12.4348348">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Raparelli Sergio. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8921978" lon="12.4376576">
+    <name>Star Oil</name>
+    <desc>Operator: D.A.R.M. Petroli S.R.L.. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8675294" lon="12.3700569">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Pisano Emanuela. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8761735" lon="12.4148398">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Cirulli Pierino. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8951877" lon="12.4465127">
+    <name>Gas Station</name>
+    <desc>Brand: Q8. Operator: Cama Petroli di Mazzone Stefano &amp; C. - Società In Accomandita Se Mplice. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8952252" lon="12.4482062">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Biswas Haripada. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8825968" lon="12.418332">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: F.I.N. Snc di Irene Nuzzo &amp; C.. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8910934" lon="12.4381743">
+    <name>Gas Station</name>
+    <desc>Operator: Penta Petroli Srl. At ~5.3km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.90355" lon="12.472028">
+    <name>IP</name>
+    <desc>Fuel: Diesel, Octane 95. Cash accepted. Credit cards accepted. Self-service. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.910219" lon="12.4745955">
+    <name>Ludoil</name>
+    <desc>Fuel: Diesel, Octane 95. Cash accepted. Credit cards accepted. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9132126" lon="12.4671636">
+    <name>Gas Station</name>
+    <desc>Operator: Penta Petroli Srl. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9482208" lon="12.4856319">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Lodoletti Stefania. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9441479" lon="12.4857349">
+    <name>Gas Station</name>
+    <desc>At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9509162" lon="12.4845538">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Gestioni Riunite G.R. S.R.L.. Hours: Mo-Sa 07:00-12:30, 16:00-19:00. Fuel: Octane 95, LPG. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9163973" lon="12.4714144">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Picchioni Domenico. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9298096" lon="12.4770137">
+    <name>Gas Station</name>
+    <desc>Operator: Agip. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9228376" lon="12.472345">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Riunite G.R. S.R.L.. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9225908" lon="12.4808356">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Silveri Fabio Massimo. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9266162" lon="12.4810735">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Miah Azad. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9395794" lon="12.4882478">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Siciliani Massimiliano. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9259648" lon="12.4736817">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Carburanti Piccolo di Piccolo Antonio. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9100037" lon="12.4737138">
+    <name>IP</name>
+    <desc>Brand: IP. Fuel: Diesel, Octane 95. Cash accepted. Credit cards accepted. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.915309" lon="12.4694848">
+    <name>StarOil</name>
+    <desc>Brand: Eni. Operator: Marino Vincenzo. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9586701" lon="12.4866593">
+    <name>TotalErg</name>
+    <desc>Brand: TotalErg. Operator: Carburanti Bacci Società In Nome Collettivo di Bacci Giorgio &amp; C .. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.914239" lon="12.4687545">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Orlandi Daniele. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.920475" lon="12.4709979">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Flaminio Carburanti Società In Accomandita Semplice di Olcese Ezio. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9337586" lon="12.4802783">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Imperiale Nico. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9194771" lon="12.4735469">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Marino Vincenzo. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9392661" lon="12.4883858">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Ubertini Giuseppe. At ~6.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9148443" lon="12.4639291">
+    <name>REPSOL (ex ERG)</name>
+    <desc>Brand: Repsol. Operator: Repsol. Self-service. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9058585" lon="12.4625997">
+    <name>Erg</name>
+    <desc>Brand: IP. Operator: Grassetti Marcello. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.939897" lon="12.4714555">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Mundial Carburanti di Cataldo &amp; De Fabritiis S.N.C.. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9427446" lon="12.4705526">
+    <name>Api</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9480062" lon="12.4633214">
+    <name>IP</name>
+    <desc>Brand: IP. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9512637" lon="12.4680182">
+    <name>Total</name>
+    <desc>Brand: Total Erg. Operator: Gestioni Europa - Società Per Azioni. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9466425" lon="12.469949">
+    <name>Eni</name>
+    <desc>Brand: Eni. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9467234" lon="12.4693566">
+    <name>ENI</name>
+    <desc>Brand: Eni. Operator: Clarioni 2011 S.R.L.. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9369293" lon="12.4689216">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Md Farid Miah. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9379934" lon="12.4656832">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. Hours: 24/7. Self-service. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9302824" lon="12.4589811">
+    <name>Gas Station</name>
+    <desc>Brand: Tamoil. Operator: Nova Tevere 93 - S.N.C. di Bucchi Francesco. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9394426" lon="12.4709301">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Carafelli Stefano. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.946158" lon="12.473455">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Siciliani Massimiliano. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9408175" lon="12.4627775">
+    <name>Gas Station</name>
+    <desc>Brand: Smaf. Operator: Md Farid Miah. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9108991" lon="12.464419">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Palumbo Massimo. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9212992" lon="12.460084">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Hossain Sheikh Jabber. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9544517" lon="12.4758338">
+    <name>Gas Station</name>
+    <desc>Brand: Total Erg. Operator: Flaminia Carburanti Società in Nome Collettivo di D. De Leonibus F. di Nardi e D. di Nardi. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9436842" lon="12.4717945">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Flaminia Servizi S.A.S. di Picierno Angela. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9428902" lon="12.4718331">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Reale Alessandra. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9145573" lon="12.462911">
+    <name>Gas Station</name>
+    <desc>Brand: Edra Oil. Operator: 2 Opl Distribuzione Carburanti di Olivi Pietro e Livio Società In Nome Collettivo. Wheelchair accessible. At ~6.7km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8987447" lon="12.4549563">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Europa - Società Per Azioni. Self-service. At ~7.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9056877" lon="12.4556087">
+    <name>Gas Station</name>
+    <desc>Access: private. At ~7.0km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.909256" lon="12.417657">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Orsi Secondo. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8864039" lon="12.4009331">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Eni Fuel S.p.A.. Fuel: CNG. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9035209" lon="12.4210927">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Gennari Dario. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.925869" lon="12.414535">
+    <name>StarOIL</name>
+    <desc>Fuel: Diesel. Cash accepted. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.89" lon="12.411111">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Nuova Sidap S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.906809" lon="12.415988">
+    <name>Gas Station</name>
+    <desc>Brand: TE 24/24. Operator: Gestioni Europa - Società Per Azioni. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.956805" lon="12.412697">
+    <name>Erg</name>
+    <desc>Brand: Total Erg. Operator: Gestioni Europa - Società Per Azioni. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9825381" lon="12.4075293">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia S.R.L.. Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.942486" lon="12.419642">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Gi.Cla. Petroli S.N.C. di Aquila Giovanni &amp; Claudio.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9589564" lon="12.3894777">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia S.R.L.. Fuel: Diesel, LPG. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.925019" lon="12.42322">
+    <name>Tiber</name>
+    <desc>Brand: Tiber. Hours: 24/7. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.903559" lon="12.415688">
+    <name>Gas Station</name>
+    <desc>Operator: Manca Ottavio. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.889794" lon="12.41012">
+    <name>Total</name>
+    <desc>Brand: TotalEnergies. Operator: Gestioni Europa - Società Per Azioni. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9047409" lon="12.4255123">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Giovanrosa Snc di Giovanrosa Marco e Giovanrosa Vincenzo. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9068703" lon="12.4149869">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: M.E.D.A. 86 di Scalini Massimo - Società in Accomandita Semplice. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.921559" lon="12.423038">
+    <name>EWA Point</name>
+    <desc>Brand: EWA. Fuel: Diesel, Octane 95. Self-service. Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.923435" lon="12.424293">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Eni. Hours: Mo-Sa 07:00-12:30,15:30-19:00. Fuel: Diesel, Octane 95, Octane 98. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.922619" lon="12.4224562">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Silveri Fabio Massimo. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9179279" lon="12.4555256">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Md. Abu Hanif. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.926779" lon="12.423021">
+    <name>IP</name>
+    <desc>Brand: IP. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8999649" lon="12.4535731">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Do.Ge. Carburanti Sas di Popa Dorel. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9103063" lon="12.3996254">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Panta Impianti Distribuzione Carburanti e Affini S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9217844" lon="12.4105127">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: D Ariano Luigi &amp; C. S.N.C. di D Ariano Marco. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.921319" lon="12.4107891">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.925129" lon="12.413937">
+    <name>Petrol Italia</name>
+    <desc>Operator: Termo Trading Petroli S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.929308" lon="12.417697">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gruppo api. Hours: Mo-Fr 08:00-12:30, 15:00-19:00, Sa 08:00-12:30. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.930462" lon="12.418452">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Scanu Giovanni. Fuel: Diesel. Cash accepted. Self-service. Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9342409" lon="12.4200087">
+    <name>Agip</name>
+    <desc>Brand: Eni. Operator: Eni Fuel S.P.A.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9185921" lon="12.3775635">
+    <name>Staroil</name>
+    <desc>Brand: Q8. Operator: Hossain Sheikh Jabber. Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.914567" lon="12.3861315">
+    <name>Tiber Oil Srl</name>
+    <desc>Brand: Tiber Oil Srl. Operator: Tiber Oil Srl. Fuel: Diesel. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.924392" lon="12.422876">
+    <name>IP</name>
+    <desc>Brand: IP. Hours: 24/7. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.913354" lon="12.413784">
+    <name>Ewa</name>
+    <desc>Operator: Penta Petroli Srl. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9600859" lon="12.4108699">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Easy Service S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.960069" lon="12.406601">
+    <name>IES</name>
+    <desc>Brand: Ies. Operator: Mazzamati Carburanti S.A.S. di Marrocco Esterina e C.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.930076" lon="12.4228568">
+    <name>Toil</name>
+    <desc>Brand: Toil. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9489155" lon="12.4140197">
+    <name>Total</name>
+    <desc>Brand: TotalEnergies. Operator: Enerpetroli S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9555757" lon="12.4125468">
+    <name>TotalErg</name>
+    <desc>Brand: TotalErg. Operator: Total. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9352467" lon="12.442982">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Al.Ma. Carburanti di Fabio Massimo Silveri &amp; C. Snc. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9008815" lon="12.4424947">
+    <name>ESSO</name>
+    <desc>Brand: Esso. Operator: Delfino S.A.S di Sisti Giovanni. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.893271" lon="12.4372532">
+    <name>ESSO</name>
+    <desc>Brand: Esso. Operator: Società Italiana Commercio Carburanti Affini S.I.C.C.A di Sorci B Runa e C. - Società in Accomandita Semplice. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9106842" lon="12.4457433">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia Srl. Fuel: Diesel, Octane 95. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9103842" lon="12.4464837">
+    <name>Gas Station</name>
+    <desc>Brand: Agip Eni. Operator: Raffaelli Mauro. Fuel: Diesel, Octane 95. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9118027" lon="12.4483755">
+    <name>Enerpetroli</name>
+    <desc>Brand: Enerpetroli. Operator: Shaik Mahabub Alom. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8891504" lon="12.4241403">
+    <name>Q8 easy</name>
+    <desc>Brand: Q8 Easy. Operator: Servizi &amp; Gestioni Italia S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9123221" lon="12.4022421">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. Fuel: LPG. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9603633" lon="12.4520403">
+    <name>ERG</name>
+    <desc>Brand: Total Erg. Operator: Silvestrini Ilenia. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9623778" lon="12.4483388">
+    <name>Esso</name>
+    <desc>Brand: Esso. Operator: Stivaletta S.A.S. di Stivaletta Andrea e Stivaletta Stefania &amp; C.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9030545" lon="12.4437394">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Del Prete Fabio. Hours: Mo-Su 00:00-24:00. Self-service. Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9102659" lon="12.4467232">
+    <name>Gas Station</name>
+    <desc>At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9176293" lon="12.4548046">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Gianelli Alberto. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9035209" lon="12.4429814">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9037727" lon="12.4426818">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8969985" lon="12.4401272">
+    <name>Tiber</name>
+    <desc>Brand: IP. Operator: Tiber S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9073215" lon="12.4166388">
+    <name>Gas Station</name>
+    <desc>Operator: S.N.B. Srls. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9260785" lon="12.4576873">
+    <name>eni</name>
+    <desc>Brand: Eni. Operator: Pibiri Paolo. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9159849" lon="12.4542544">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ferranti Gino. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9008503" lon="12.4384904">
+    <name>TotalErg</name>
+    <desc>Brand: IP. Operator: Gestioni Europa S.P.A.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9172122" lon="12.4425849">
+    <name>IP</name>
+    <desc>Brand: IP. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9072597" lon="12.3952222">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Scanu Giuseppe. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9361198" lon="12.4361757">
+    <name>Gas Station</name>
+    <desc>Operator: Termo Trading Petroli S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9255627" lon="12.4423461">
+    <name>Tamoil</name>
+    <desc>Brand: Tamoil. Operator: Balduina Carburanti - S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9200325" lon="12.4400446">
+    <name>Erg</name>
+    <desc>Brand: Erg. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.916587" lon="12.3785504">
+    <name>Felgas</name>
+    <desc>Operator: Felgas Petroli S.R.L.. Fuel: LPG, CNG. Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9391976" lon="12.4243608">
+    <name>Q8</name>
+    <desc>Brand: Q8. Operator: Servizi &amp; Gestioni Italia Srl. Fuel: Diesel, Octane 95. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9322226" lon="12.4203786">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Coro S.R.L.. Fuel: Diesel, Octane 95. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9349105" lon="12.4324112">
+    <name>Q8</name>
+    <desc>Brand: Q8. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9367311" lon="12.4251568">
+    <name>Q8</name>
+    <desc>Brand: Toil. Fuel: Diesel, Octane 95. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9501249" lon="12.3961989">
+    <name>Gas Station</name>
+    <desc>Brand: Esso. Operator: Prioretti Petroli Group S.R.L.. Fuel: LPG, CNG. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9040771" lon="12.4460283">
+    <name>Retitalia</name>
+    <desc>Brand: Retitalia. Operator: Troiani Danilo. Hours: 24/7. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8927506" lon="12.4315367">
+    <name>Retitalia</name>
+    <desc>At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9119335" lon="12.4128987">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ip Services S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9734033" lon="12.4408094">
+    <name>Gas Station</name>
+    <desc>Brand: Tamoil. Operator: Pontesilli Mario. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9439386" lon="12.4500476">
+    <name>Gas Station</name>
+    <desc>Operator: S.T.L. Petroli S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9109823" lon="12.4449226">
+    <name>Gas Station</name>
+    <desc>Brand: Tamoil. Operator: Migliorino Pasquale. Fuel: Diesel, Octane 95. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9423986" lon="12.4384642">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Gestioni Riunite G.R. S.R.L.. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9022073" lon="12.3793646">
+    <name>Gas Station</name>
+    <desc>Brand: Agip Eni. Operator: Hossain Shakawat. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8975102" lon="12.433369">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Ventiquindici - Società A Responsabilita&apos; Limitata Semplificata. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9607335" lon="12.410468">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Md. Abu Hanif. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.957274" lon="12.4048223">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Essemme Gas di Farcomeni Sergio &amp; C. S.A.S.. Fuel: LPG. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9095074" lon="12.3980643">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Pneucast Società A Responsabilita&apos; Limitata. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9358492" lon="12.3828055">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Tiber Oil S.R.L.. Fuel: LPG. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8941429" lon="12.4377774">
+    <name>Gas Station</name>
+    <desc>Brand: Tamoil. Operator: Ferretti Carburanti S.N.C. di Luca e Alessandro Ferretti. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9835099" lon="12.4099568">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Md Farid Miah. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9351058" lon="12.4320689">
+    <name>IP</name>
+    <desc>Brand: IP. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9279374" lon="12.3536121">
+    <name>Tiber</name>
+    <desc>Hours: 24/7. Self-service. Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8825193" lon="12.3579226">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Richi S.N.C. di Paolo Chiadroni e Diviano Alfredo Rinaldi. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8868773" lon="12.4215754">
+    <name>Enerpetroli</name>
+    <desc>Brand: Enerpetroli. Operator: Enerpetroli S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9376172" lon="12.3779054">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Panta Impianti Distribuzione Carburanti e Affini S.R.L.. Fuel: Diesel, Octane 95, LPG. Cash accepted. Credit cards accepted. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.928434" lon="12.401351">
+    <name>Enerpetroli</name>
+    <desc>Brand: Enerpetroli. Operator: Enerpetroli S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8944901" lon="12.4383257">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Perrone Mauro. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9509649" lon="12.4595904">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Merchioli Adriano. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.922608" lon="12.4384028">
+    <name>Gas Station</name>
+    <desc>Brand: Total Erg. Operator: Luchini Ezio. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9267681" lon="12.4218967">
+    <name>Retitalia</name>
+    <desc>Brand: Retitalia. Hours: 24/7. Fuel: Diesel, Octane 95. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8969247" lon="12.395204">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Marconi Davide. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9220145" lon="12.3756267">
+    <name>Gas Station</name>
+    <desc>Brand: Api-Ip. Operator: Check Point di Stefano Rossi. Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8922538" lon="12.4143715">
+    <name>Eni</name>
+    <desc>Brand: Eni. Operator: Rogai Stefano Società In Nome Collettivo di Rogai Stefano &amp; C.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9727866" lon="12.4448505">
+    <name>Gas Station</name>
+    <desc>Brand: Esso. Operator: Stabile Angelo. Fuel: LPG. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8973734" lon="12.450115">
+    <name>Gas Station</name>
+    <desc>Brand: Edra Oil. Operator: Pioli Roberto. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8963154" lon="12.440447">
+    <name>IP</name>
+    <desc>Brand: IP. Operator: Iachini Guido. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9391273" lon="12.4431802">
+    <name>Gas Station</name>
+    <desc>Brand: Edra Oil. Operator: Apicella Luigi. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9199251" lon="12.4574299">
+    <name>Gas Station</name>
+    <desc>Brand: Keropetrol. Operator: Roscilli Franco. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9072295" lon="12.4465967">
+    <name>iperoil</name>
+    <desc>Operator: Gestioni Carburanti Riunite Società a Responsabilità Limitata Semplificata. Hours: 24/7. Self-service. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.8942291" lon="12.4312391">
+    <name>Gas Station</name>
+    <desc>Operator: Termo Trading Petroli S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9036265" lon="12.4171326">
+    <name>Gas Station</name>
+    <desc>Operator: Nicki Carburanti S.R.L.. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9219159" lon="12.3812592">
+    <name>Gas Station</name>
+    <desc>Operator: Caiazzo Carlo. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9811874" lon="12.4165274">
+    <name>MyOil</name>
+    <desc>Fuel: Diesel, Octane 98. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.9010112" lon="12.4527835">
+    <name>Gas Station</name>
+    <desc>Wheelchair accessible. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="41.912052" lon="12.3898064">
+    <name>Shell</name>
+    <desc>Brand: Shell. At ~7.2km along route.</desc>
+    <type>Gas Station</type>
+    <sym>Gas Station</sym>
+  </wpt>
+</gpx>
