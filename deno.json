@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net --allow-env --allow-import main.ts"
+  },
+  "imports": {
+    "grammy": "https://deno.land/x/grammy@v1.40.0/mod.ts",
+    "grammy/": "https://deno.land/x/grammy@v1.40.0/",
+    "@xmldom/xmldom": "npm:@xmldom/xmldom@^0.8.11",
+    "@tmcw/togeojson": "npm:@tmcw/togeojson@^7.1.2"
+  }
+}

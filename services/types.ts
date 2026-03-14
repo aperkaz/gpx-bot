@@ -28,26 +28,10 @@ export type PointOfInterest = {
   distanceAlongRoute: number; // meters from route start to nearest point
 };
 
-/** Configuration for CLI argument parsing */
-export type CliConfig = {
-  scriptName: string;
-  description: string;
-  defaultSuffix: string; // e.g. "-water", "-fuel"
-  defaultRadius: number;
-};
-
-/** Parsed CLI arguments */
-export type CliArgs = {
-  inputFile: string;
-  radius: number;
-  outputFile: string;
-};
-
 /** Configuration for GPX output generation */
 export type GpxOutputConfig = {
   name: string;
   description: string;
-  defaultSymbol: string;
 };
 
 /** Functions each script provides to classify and describe Overpass results */
