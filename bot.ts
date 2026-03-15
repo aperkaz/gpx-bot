@@ -7,6 +7,7 @@ import {
   findPoisAlongRoute,
   buildSummary,
 } from "./services/waypoint-metadata.ts";
+import { t, getLocale } from "./services/i18n.ts";
 
 // ── Bot Setup ────────────────────────────────────────────────────────────────
 
@@ -48,36 +49,28 @@ bot.use(async (ctx, next) => {
 
 // ── Handlers ─────────────────────────────────────────────────────────────────
 
-const WELCOME_TEXT = `Welcome to GPX Bot!
-
-Send me a .gpx file with your route and I'll find water sources and fuel stations along it.
-
-How it works:
-1. Send a .gpx file
-2. Choose what to find (water, fuel, or both)
-3. Pick a search radius
-4. Get back a .gpx file with your route + points of interest
-
-In group chats, send /gpx_metadata and I'll ask you to forward the GPX file`;
-
-bot.command("start", (ctx) => ctx.reply(WELCOME_TEXT));
-bot.command("help", (ctx) => ctx.reply(WELCOME_TEXT));
+bot.command("start", (ctx) => {
+  const locale = getLocale(ctx.from?.language_code);
+  return ctx.reply(t("welcome", locale));
+});
+bot.command("help", (ctx) => {
+  const locale = getLocale(ctx.from?.language_code);
+  return ctx.reply(t("welcome", locale));
+});
 
 // /gpx_metadata: in groups, ask user to forward the GPX file
 bot.command("gpx_metadata", async (ctx) => {
-  await ctx.reply(
-    "Please forward me the GPX file you'd like me to analyze.",
-  );
+  const locale = getLocale(ctx.from?.language_code);
+  await ctx.reply(t("forward_request", locale));
 });
 
 // Handle document uploads — show type picker
 bot.on("message:document", async (ctx) => {
+  const locale = getLocale(ctx.from?.language_code);
   const fileName = ctx.message.document.file_name ?? "";
 
   if (!fileName.toLowerCase().endsWith(".gpx")) {
-    await ctx.reply(
-      "Please send a .gpx file. Other file types are not supported.",
-    );
+    await ctx.reply(t("not_gpx", locale));
     return;
   }
 
@@ -86,9 +79,9 @@ bot.on("message:document", async (ctx) => {
     keyboard.text(WAYPOINT_TYPES[key].label, key);
   }
   if (Object.keys(WAYPOINT_TYPES).length > 1) {
-    keyboard.text("Both", "both");
+    keyboard.text(locale === "es" ? "Ambos" : "Both", "both");
   }
-  await ctx.reply("Got your GPX route! What should I find along it?", {
+  await ctx.reply(t("type_picker", locale), {
     reply_markup: keyboard,
     reply_parameters: { message_id: ctx.message.message_id },
   });
@@ -100,6 +93,7 @@ const typePattern = [...Object.keys(WAYPOINT_TYPES), "both"].join("|");
 // Handle type selection → show radius picker
 bot.callbackQuery(new RegExp(`^(${typePattern})$`), async (ctx) => {
   const type = ctx.match[1];
+  const locale = getLocale(ctx.from?.language_code);
   await ctx.answerCallbackQuery();
 
   const keyboard = new InlineKeyboard()
@@ -110,7 +104,7 @@ bot.callbackQuery(new RegExp(`^(${typePattern})$`), async (ctx) => {
 
   const label = labelForTypes(resolveTypeKeys(type));
   await ctx.editMessageText(
-    `Finding ${label.toLowerCase()}. Pick a search radius:`,
+    t("radius_picker", locale).replace("{type}", label.toLowerCase()),
     { reply_markup: keyboard },
   );
 });
@@ -121,8 +115,9 @@ bot.callbackQuery(new RegExp(`^(${typePattern}):(\\d+)$`), async (ctx) => {
   const radius = parseInt(ctx.match[2], 10);
   const typeKeys = resolveTypeKeys(type);
   const label = labelForTypes(typeKeys);
+  const locale = getLocale(ctx.from?.language_code);
 
-  await ctx.answerCallbackQuery("Processing your route...");
+  await ctx.answerCallbackQuery(t("processing", locale));
 
   try {
     // Retrieve the original GPX file from the message this reply was sent to
@@ -131,18 +126,14 @@ bot.callbackQuery(new RegExp(`^(${typePattern}):(\\d+)$`), async (ctx) => {
       replyTo && "document" in replyTo ? replyTo.document?.file_id : undefined;
 
     if (!fileId) {
-      await ctx.editMessageText(
-        "Could not find the original GPX file. Please send it again.",
-      );
+      await ctx.editMessageText(t("no_file", locale));
       return;
     }
 
-    await ctx.editMessageText("Downloading your GPX file...");
+    await ctx.editMessageText(t("downloading", locale));
     const file = await ctx.api.getFile(fileId);
     if (!file.file_path) {
-      await ctx.editMessageText(
-        "Could not download the file. Please try again.",
-      );
+      await ctx.editMessageText(t("download_failed", locale));
       return;
     }
 
@@ -150,10 +141,14 @@ bot.callbackQuery(new RegExp(`^(${typePattern}):(\\d+)$`), async (ctx) => {
     const originalGpxXml = await (await fetch(fileUrl)).text();
 
     // Search for POIs along the route
-    await ctx.editMessageText(
-      `Searching for ${label.toLowerCase()} along your route...`,
-    );
     const result = await findPoisAlongRoute(typeKeys, originalGpxXml, radius);
+    const distance = result.totalKm;
+
+    await ctx.editMessageText(
+      t("searching", locale)
+        .replace("{type}", label.toLowerCase())
+        .replace("{distance}", distance),
+    );
 
     // Generate combined GPX (original track + POI waypoints)
     const gpxOutput = generateGpx(
@@ -166,7 +161,7 @@ bot.callbackQuery(new RegExp(`^(${typePattern}):(\\d+)$`), async (ctx) => {
     );
 
     // Send results
-    const summary = buildSummary(result, typeKeys, radius);
+    const summary = buildSummary(result, typeKeys, radius, locale);
     const gpxBuffer = new TextEncoder().encode(gpxOutput);
     const fileName = `route-${type}.gpx`;
 
@@ -176,8 +171,6 @@ bot.callbackQuery(new RegExp(`^(${typePattern}):(\\d+)$`), async (ctx) => {
     });
   } catch (err) {
     console.error("Processing error:", err);
-    await ctx.editMessageText(
-      "Sorry, I couldn't process your file. The route might be too large or the map service is temporarily unavailable. Please try again later.",
-    );
+    await ctx.editMessageText(t("error", locale));
   }
 });

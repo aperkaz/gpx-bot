@@ -2,7 +2,6 @@ import { webhookCallback } from "grammy/mod.ts";
 import { bot } from "./bot.ts";
 
 if (Deno.env.get("DENO_DEPLOYMENT_ID")) {
-  console.log("start up in deno");
   // Production: webhook mode on Deno Deploy
   const handleUpdate = webhookCallback(bot, "std/http");
 

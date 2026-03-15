@@ -1,7 +1,12 @@
 import type { PointOfInterest, WaypointType } from "./types.ts";
-import { routeLength, downsampleRoute, cumulativeDistances } from "./geo.ts";
+import {
+  routeLength,
+  downsampleRoute,
+  cumulativeDistances,
+} from "./geo.ts";
 import { parseGpxFromString } from "./gpx.ts";
 import { queryOverpass, processElements } from "./overpass.ts";
+import { t, type Locale } from "./i18n.ts";
 
 // ── Constants ────────────────────────────────────────────────────────────────
 
@@ -160,29 +165,55 @@ export function buildSummary(
   result: RouteSearchResult,
   typeKeys: string[],
   radius: number,
+  locale: Locale = "en",
 ): string {
   const { pois, totalKm, countsByType } = result;
-  const typeLabel =
-    typeKeys.length > 1
-      ? "points of interest"
-      : WAYPOINT_TYPES[typeKeys[0]].label.toLowerCase();
   const radiusKm = (radius / 1000).toFixed(0);
 
+  // Get localized type label(s)
+  let typeLabel: string;
+  if (typeKeys.length === 1) {
+    const key = typeKeys[0];
+    const waypointLabel = key === "water" 
+      ? t("water_label", locale) 
+      : key === "fuel" 
+        ? t("fuel_label", locale)
+        : WAYPOINT_TYPES[key].label;
+    typeLabel = waypointLabel.toLowerCase();
+  } else {
+    typeLabel = locale === "es" ? "puntos de interés" : "points of interest";
+  }
+
   if (pois.length === 0) {
-    return `No ${typeLabel} found within ${radiusKm}km of your ${totalKm}km route.`;
+    return t("summary_empty", locale)
+      .replace("{type}", typeLabel)
+      .replace("{radius}", radiusKm)
+      .replace("{distance}", totalKm);
   }
 
   const closestKm = (pois[0].distanceAlongRoute / 1000).toFixed(1);
-  const furthestKm = (pois[pois.length - 1].distanceAlongRoute / 1000).toFixed(
-    1,
-  );
+  const furthestKm = (pois[pois.length - 1].distanceAlongRoute / 1000).toFixed(1);
 
-  let summary = `Found ${pois.length} ${typeLabel} along your ${totalKm}km route (${radiusKm}km radius).`;
-  summary += `\nClosest at ${closestKm}km, furthest at ${furthestKm}km.`;
+  let summary = t("summary_found", locale)
+    .replace("{count}", String(pois.length))
+    .replace("{type}", typeLabel)
+    .replace("{distance}", totalKm)
+    .replace("{radius}", radiusKm);
+
+  summary += "\n" + t("summary_closest", locale)
+    .replace("{closest}", closestKm)
+    .replace("{furthest}", furthestKm);
 
   if (typeKeys.length > 1) {
     const counts = typeKeys
-      .map((key) => `${WAYPOINT_TYPES[key].label}: ${countsByType[key] ?? 0}`)
+      .map((key) => {
+        const label = key === "water"
+          ? t("water_label", locale)
+          : key === "fuel"
+            ? t("fuel_label", locale)
+            : WAYPOINT_TYPES[key].label;
+        return `${label}: ${countsByType[key] ?? 0}`;
+      })
       .join(", ");
     summary += `\n${counts}.`;
   }
