@@ -1,4 +1,4 @@
-import { webhookCallback } from "grammy";
+import { webhookCallback } from "grammy/mod.ts";
 import { bot } from "./bot.ts";
 
 if (Deno.env.get("DENO_DEPLOYMENT_ID")) {

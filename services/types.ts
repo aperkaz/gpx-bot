@@ -40,3 +40,11 @@ export type PoiProcessor = {
   buildDescription: (tags: Record<string, string>) => string;
   defaultName: (poiType: string) => string;
 };
+
+/** A registered waypoint category (water, fuel, etc.) */
+export type WaypointType = {
+  key: string;
+  label: string;
+  filters: string[];
+  processor: PoiProcessor;
+};
