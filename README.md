@@ -36,5 +36,5 @@ The bot starts in long polling mode locally (no webhook or public URL needed).
 3. Add `BOT_TOKEN` as an environment variable
 4. Register the webhook:
    ```sh
-   curl "https://api.telegram.org/bot<TOKEN>/setWebhook?url=https://<app>.deno.dev/<TOKEN>"
+   curl "https://api.telegram.org/bot<TOKEN>/setWebhook?url=https://gpx-bot.aperkaz.deno.net/<TOKEN>"
    ```
